@@ -133,9 +133,12 @@ plt.title('Laplacian Operator')
 ### 1. Smoothing Filters
 
 i) Using Averaging Filter
+
 ![image](https://github.com/praveenv23013808/Implementation-of-filter/assets/145824728/aaae5539-ab6f-41c0-82f8-1c75d350e768)
 
+
 ii) Using Weighted Averaging Filter
+
 ![image](https://github.com/praveenv23013808/Implementation-of-filter/assets/145824728/9c88fffe-7510-4633-ba12-4d9fbdbf2a72)
 
 
